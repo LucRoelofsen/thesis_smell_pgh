@@ -27,5 +27,7 @@ tensorflow==2.4.0
 
 
 Important note: In order to not get an error related to tensor hashing in the feature importance step, the code below needs to be used as described in the notebook. This does result in way longer runtimes for the models.
+
 import tensorflow as tf
+
 tf.compat.v1.disable_v2_behavior()
