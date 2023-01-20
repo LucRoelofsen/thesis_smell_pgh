@@ -6,7 +6,9 @@ The Jupyter notebook file contains all the code used in the project. The data im
 Regarding installing packages, the following list needs to be installed:
 
 python==3.9.0
+
 pandas==1.1.1
+
 matplotlib==3.3.2
 numpy==1.19.4
 shap==0.41.0
