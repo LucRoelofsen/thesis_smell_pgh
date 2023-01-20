@@ -11,11 +11,17 @@ pandas==1.1.1
 
 matplotlib==3.3.2
 numpy==1.19.4
+
 shap==0.41.0
+
 datetime
+
 sklearn==0.23.2
+
 statsmodels==0.11.1
+
 keras==2.4.3
+
 tensorflow==2.4.0
 
 
